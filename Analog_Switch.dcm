@@ -78,6 +78,12 @@ K CMOS Analog Switch
 F http://www.analog.com/media/en/technical-documentation/data-sheets/ADG733_734.pdf
 $ENDCMP
 #
+$CMP ADG918
+D Wideband, 43 dB Isolation at 1 GHz, CMOS 1.65 V to 2.75 V, 2:1 Mux/SPDT Switches
+K RF Switch
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADG918_919.pdf
+$ENDCMP
+#
 $CMP DG308AxJ
 D Quad SPST Analog Switches, normally OFF, 60Ohm Ron, DIP-16
 K CMOS Analog Switch
